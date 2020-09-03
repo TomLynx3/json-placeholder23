@@ -1,21 +1,20 @@
 {
-  "categories": [
-    {
-      id: 1,
-      category: "shoping",
-      amount: 1000,
-      color: "green",
-      icon: "shopping",
-      ratio: 0.3,
-    },
-    {
-      id: 3,
-      category: "gas",
-      amount: 700,
-      color: "blue",
-      icon: "gas-station",
-      ratio: 0.21,
-    }
-  ],
-  
+   "categories":[
+      {
+         "id":1,
+         "category":"shoping",
+         "amount":1000,
+         "color":"green",
+         "icon":"shopping",
+         "ratio":0.3
+      },
+      {
+         "id":3,
+         "category":"gas",
+         "amount":700,
+         "color":"blue",
+         "icon":"gas-station",
+         "ratio":0.21
+      }
+   ]
 }
