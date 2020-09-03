@@ -31,6 +31,14 @@
          "color":"navy",
          "icon":"cash",
          "ratio":0.24
+      },
+      {
+         "id":6,
+         "category":"mortgage",
+         "amount":1200,
+         "color":"purple",
+         "icon":"warehouse",
+         "ratio":0.5
       }
    ]
 }
