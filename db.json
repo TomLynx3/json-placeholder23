@@ -15,6 +15,22 @@
          "color":"blue",
          "icon":"gas-station",
          "ratio":0.21
+      },
+      {
+         "id":4,
+         "category":"entertaiment",
+         "amount":300,
+         "color":"black",
+         "icon":"gamepad-square-outline",
+         "ratio":0.09
+      },
+      {
+         "id":5,
+         "category":"bills",
+         "amount":800,
+         "color":"navy",
+         "icon":"cash",
+         "ratio":0.24
       }
    ]
 }
